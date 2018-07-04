@@ -1,6 +1,10 @@
 /VERSION
 *~
 
+# Nix related stuff
+.direnv
+result
+
 # Automake and Autoconf
 config.guess
 config.log
